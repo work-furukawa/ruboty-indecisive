@@ -1,4 +1,5 @@
 require "ruboty/indecisive/version"
+require 'ruboty/handlers/indecisive'
 
 module Ruboty
   module Indecisive
